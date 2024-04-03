@@ -3,6 +3,8 @@ import java.util.Iterator;
 import java.util.Set;
 public class SetCollections {
     public static void main(String[] args) {
+
+        // agregando swagger
     // como se crea un elementos
     Set<String> vocales = new HashSet<>();
     //como agrego elementos
